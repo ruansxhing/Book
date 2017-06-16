@@ -159,5 +159,4 @@ ___
 
 ![直接图片链接](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Logo.png)
 
-![](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
-
+![引用图片链接](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
